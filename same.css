@@ -1,0 +1,338 @@
+    * {
+        margin: 0;
+        padding: 0;
+    }
+    
+    .top {
+        width: 1000px;
+        height: 420px;
+        margin: auto;
+        overflow: hidden;
+        background-color: rgb(250, 239, 219);
+        background: url(../images/f61.jpg);
+        background-size: 1037px 527px;
+        position: relative
+    }
+    
+    .fir {
+        background-color: #fff;
+        width: 800px;
+        height: 42px;
+        line-height: 42px;
+        margin: 20px 20px 20px 95px;
+        padding-left: 10px;
+    }
+    
+    .ziti {
+        font-family: 'Courier New', Courier, monospace;
+    }
+    
+    .la a {
+        text-decoration: none;
+        color: black;
+    }
+    
+    .la a:hover {
+        text-decoration: none;
+        color: lightseagreen;
+    }
+    
+    .fir span {
+        float: left;
+        color: lightseagreen;
+        font-weight: bolder;
+        font-size: 20px;
+    }
+    
+    .sy {
+        float: left;
+        margin-left: 140px;
+        list-style: none;
+    }
+    
+    .sy li {
+        float: left;
+        margin-left: 40px;
+    }
+    
+    .sy li a {
+        text-decoration: none;
+        color: black;
+        padding-bottom: 10px;
+    }
+    
+    .sy li a:hover {
+        text-decoration: none;
+        color: lightseagreen;
+        border-bottom: 2px solid lightseagreen;
+    }
+    
+    .list {
+        list-style: none;
+        position: absolute;
+        top: 350px;
+        left: 280px;
+        display: inline-block;
+    }
+    
+    .list li {
+        display: inline-block;
+        list-style: none;
+        background-color: rgb(0, 0, 0, .2);
+        margin-left: 40px;
+        width: 82px;
+        height: 10px;
+        text-align: center;
+        color: rgba(0, 0, 0, 0);
+    }
+    
+    .list li:hover {
+        background-color: rgba(233, 121, 121, 0.966);
+    }
+    
+    .center {
+        width: 1000px;
+        height: 350px;
+        margin: auto;
+        background-color: rgba(238, 235, 227, 0.979);
+        padding-top: 10px;
+    }
+    
+    .yj {
+        list-style: none;
+        margin: 46px 0 0 35px;
+        display: inline-block;
+    }
+    
+    .yj li {
+        display: inline-block;
+        list-style: none;
+        margin-left: 43px;
+        width: 180px;
+        height: 43px;
+        text-align: center;
+        line-height: 43px;
+        border: 1px solid white;
+    }
+    
+    .yj li:hover {
+        background-color: rgba(233, 121, 121, 0.966);
+    }
+    
+    .ll {
+        display: inline-block;
+        margin: 45px 10px 0 54px;
+    }
+    
+    .ll li {
+        display: inline-block;
+        width: 140px;
+        margin: 0 42px 0 45px;
+        text-align: center;
+    }
+    
+    .ll img {
+        width: 140px;
+        height: 140px;
+        border: 3px solid rgb(241, 239, 227);
+        border-radius: 50%;
+    }
+    
+    .ll span {
+        color: rgb(247, 85, 85);
+        font-family: Arial, Helvetica, sans-serif
+    }
+    
+    .center p {
+        text-align: center;
+        margin: 0 0 0 0;
+        color: saddlebrown;
+        font-family: 华文行楷;
+    }
+    
+    .three {
+        width: 1000px;
+        height: 460px;
+        margin: auto;
+        background-color: rgb(243, 226, 171);
+    }
+    
+    .lm {
+        display: inline-block;
+        margin: 0px 10px 0 52px;
+    }
+    
+    .lm li {
+        display: inline-block;
+        margin: 10px 0px 0 0px;
+        width: 300px;
+    }
+    
+    .lm p {
+        background-color: #fff;
+        color: saddlebrown;
+        font-family: 隶书;
+        width: 285px;
+        margin: -4px 0 0 0;
+    }
+    
+    .lm p:hover {
+        background-color: rgba(233, 121, 121, 0.966);
+    }
+    
+    .nn {
+        float: right;
+    }
+    
+    .lm img {
+        width: 285px;
+        height: 195px;
+    }
+    
+    .lv {
+        display: inline-block;
+        margin: 10px 0px 0 53px;
+    }
+    
+    .lv li {
+        display: inline-block;
+        margin-right: 25px;
+    }
+    
+    .lv p {
+        background-color: #fff;
+        color: saddlebrown;
+        font-family: 隶书;
+        width: 200px;
+        margin: -4px 0 0 0;
+    }
+    
+    .lv p:hover {
+        background-color: rgba(233, 121, 121, 0.966);
+    }
+    
+    .lv img {
+        width: 200px;
+        height: 135px;
+    }
+    
+    .kk {
+        text-align: center;
+        color: saddlebrown;
+        font-family: 隶书;
+    }
+    
+    .gd {
+        text-align: center;
+        margin: 15px 0 0 0px;
+    }
+    
+    .four {
+        width: 1000px;
+        height: 250px;
+        margin: auto;
+        background-color: rgb(236, 200, 171);
+    }
+    
+    .cc {
+        text-align: center;
+        color: saddlebrown;
+        font-family: 隶书;
+        margin: 0 0 0 0;
+        font-size: 20px;
+        padding-top: 10px;
+    }
+    
+    .cd {
+        display: inline-block;
+        margin: 0px 10px 0 -7px;
+    }
+    
+    .cd li {
+        display: inline-block;
+        margin: 18px 27px 0 56px;
+        width: 100px;
+    }
+    
+    .cd p {
+        color: saddlebrown;
+        font-family: 隶书;
+        width: 285px;
+        margin: -4px 0 0 0;
+    }
+    
+    .cd img {
+        width: 150px;
+        height: 135px;
+    }
+    
+    .ff {
+        text-align: center;
+    }
+    
+    .ld {
+        display: inline-block;
+        margin: 0px 0px 0 55px;
+        position: relative;
+    }
+    
+    .ld p {
+        position: absolute;
+        top: 4px;
+        font-size: 25px;
+        line-height: 170px;
+        width: 21px;
+        height: 170px;
+        text-align: center;
+    }
+    
+    .ld span {
+        display: inline-block;
+        width: 141px;
+        height: 170px;
+    }
+    
+    .ld span:hover {
+        background-color: rgba(0, 0, 0, .2);
+    }
+    
+    .ld li {
+        display: inline-block;
+        margin-right: 25px;
+    }
+    
+    .ld img {
+        width: 141px;
+        height: 170px;
+    }
+    
+    .foot {
+        background-color: rgb(134, 90, 90);
+        width: 1000px;
+        height: 200px;
+        margin: auto;
+    }
+    
+    .fo {
+        display: inline-block;
+        margin: 20px 0 0 50px;
+    }
+    
+    .lis {
+        list-style: none;
+        margin-left: 65px;
+        float: left;
+    }
+    
+    .lis span {
+        font-size: 20px;
+        color: white;
+    }
+    
+    .lis li {
+        margin-top: 10px;
+    }
+    
+    .lis li a {
+        color: white
+    }

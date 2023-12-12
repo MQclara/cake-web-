@@ -1,0 +1,231 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.top {
+    width: 1000px;
+    height: 420px;
+    margin: auto;
+    overflow: hidden;
+    background-color: pink;
+    background: url(../images/餐点16.jpg);
+    background-size: 1037px 527px;
+}
+
+.fir {
+    background-color: #fff;
+    width: 800px;
+    height: 42px;
+    line-height: 42px;
+    margin: 20px 20px 20px 95px;
+    padding-left: 10px;
+}
+
+.ziti {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.la a {
+    text-decoration: none;
+    color: black;
+}
+
+.la a:hover {
+    text-decoration: none;
+    color: lightseagreen;
+}
+
+.fir span {
+    float: left;
+    color: lightseagreen;
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+.sy {
+    float: left;
+    margin-left: 140px;
+    list-style: none;
+}
+
+.sy li {
+    float: left;
+    margin-left: 40px;
+}
+
+.sy li a {
+    text-decoration: none;
+    color: black;
+    padding-bottom: 10px;
+}
+
+.sy li a:hover {
+    text-decoration: none;
+    color: lightseagreen;
+    border-bottom: 2px solid lightseagreen;
+}
+
+.bt {
+    width: 1000px;
+    height: 285px;
+    margin: 20px auto;
+    text-align: center;
+}
+
+.bt h1 {
+    margin: 40px 0 20px 0;
+    font-style: italic;
+}
+
+.wh {
+    width: 200px;
+    height: 76px;
+    background-color: rgba(0, 0, 0, .2);
+}
+
+.wb {
+    width: 200px;
+    height: 76px;
+    margin: 20px auto;
+    border: 4px double white;
+    color: white;
+}
+
+.wb p {
+    display: inline-block;
+    margin-top: 10px;
+    font-size: 25px;
+    margin-bottom: 10px;
+}
+
+.wb span {
+    font-size: 15px;
+    margin-bottom: 10px;
+    display: block;
+}
+
+#bv {
+    width: 340px;
+    height: 50px;
+    border: 0;
+    font-size: 20px;
+    color: white;
+    background-color: rgb(134, 90, 90);
+}
+
+#bv:hover {
+    background-color: #fff;
+    color: lightseagreen;
+}
+
+.center {
+    width: 1000px;
+    height: 400px;
+    margin: auto;
+    background-color: white;
+}
+
+.bg {
+    background-color: rgba(218, 217, 213, 0.301);
+}
+
+.bg1 {
+    background-color: rgba(247, 179, 140, 0.849);
+}
+
+.pro {
+    width: 100%;
+    text-align: center;
+    padding-top: 45px;
+}
+
+.pro span {
+    display: inline-block;
+    padding-bottom: 5px;
+    border-bottom: 3px dotted rgb(95, 66, 66);
+}
+
+.list {
+    margin: 20px 0 0 85px;
+    display: inline-block;
+    list-style: none;
+}
+
+.list li {
+    display: inline-block;
+    margin-left: 20px;
+    width: 180px;
+    height: 130px;
+}
+
+.list img {
+    width: 180px;
+    height: 130px;
+}
+
+.list span {
+    margin-left: 50px;
+}
+
+.list h6 {
+    margin-left: 40px;
+}
+
+.bc {
+    background-color: #fff;
+    border: 0;
+    width: 100px;
+    height: 20px;
+    margin-left: 40px;
+}
+
+.bc:hover {
+    background-color: grey;
+    color: white;
+}
+
+.pic {
+    width: 800px;
+    height: 100px;
+    overflow: hidden;
+    margin: 10px auto;
+}
+
+.mn {
+    display: inline-block;
+    margin: 20px 80px 0 80px;
+    text-align: center;
+    text-indent: 2em;
+}
+
+.foot {
+    background-color: rgb(134, 90, 90);
+    width: 1000px;
+    height: 200px;
+    margin: auto;
+}
+
+.fo {
+    display: inline-block;
+    margin: 20px 0 0 50px;
+}
+
+.lis {
+    list-style: none;
+    margin-left: 65px;
+    float: left;
+}
+
+.lis span {
+    font-size: 20px;
+    color: white;
+}
+
+.lis li {
+    margin-top: 10px;
+}
+
+.lis li a {
+    color: white
+}

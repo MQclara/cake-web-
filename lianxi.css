@@ -1,0 +1,205 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.ys {
+    display: inline-block;
+    list-style: none;
+}
+
+.ys li {
+    display: inline-block;
+}
+
+.top {
+    width: 1000px;
+    height: 420px;
+    margin: auto;
+    overflow: hidden;
+    background-color: rgb(247, 225, 216);
+    background: url(../images/g1.jpg);
+    background-size: 1037px 527px;
+    position: relative
+}
+
+.fir {
+    background-color: #fff;
+    width: 804px;
+    height: 42px;
+    line-height: 42px;
+    margin: 15px 20px 20px 111px;
+    padding-left: 10px;
+}
+
+.fir span {
+    float: left;
+    color: lightseagreen;
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+.sy {
+    float: left;
+    margin-left: 140px;
+    list-style: none;
+}
+
+.sy li {
+    float: left;
+    margin-left: 40px;
+}
+
+.sy li a {
+    text-decoration: none;
+    color: black;
+    padding-bottom: 10px;
+}
+
+.sy li a:hover {
+    text-decoration: none;
+    color: lightseagreen;
+    border-bottom: 2px solid lightseagreen;
+}
+
+.mk {
+    width: 1000px;
+    height: 285px;
+    margin: 20px auto;
+    text-align: center;
+}
+
+.mk h1 {
+    margin: 40px 0 20px 0;
+    font-style: italic;
+}
+
+.pl {
+    width: 200px;
+    height: 76px;
+    background-color: rgba(0, 0, 0, .2);
+}
+
+.mq {
+    width: 200px;
+    height: 76px;
+    margin: 20px auto;
+    border: 4px double white;
+    color: white;
+}
+
+.mq p {
+    display: inline-block;
+    margin-top: 10px;
+    font-size: 25px;
+    margin-bottom: 10px;
+}
+
+.mq span {
+    font-size: 15px;
+    margin-bottom: 10px;
+    display: block;
+}
+
+.pic {
+    margin: 0 30px 30px 30px;
+    display: inline-block;
+    list-style: none;
+}
+
+.la a {
+    text-decoration: none;
+    color: black;
+}
+
+.la a:hover {
+    text-decoration: none;
+    color: rgb(134, 90, 90);
+}
+
+.foot {
+    background-color: rgb(134, 90, 90);
+    width: 1000px;
+    height: 200px;
+    margin: -20px 0 0 1019px;
+    clear: both;
+}
+
+.fo {
+    display: inline-block;
+    margin: 20px 0 0 50px;
+}
+
+.lis {
+    list-style: none;
+    margin-left: 65px;
+    float: left;
+}
+
+.lis span {
+    font-size: 20px;
+    color: white;
+}
+
+.lis li {
+    margin-top: 10px;
+}
+
+.lis li a {
+    color: white
+}
+
+.ziti {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.center {
+    width: 1000px;
+    margin: 20px auto;
+}
+
+.lx {
+    margin: auto;
+    width: 100%;
+    height: 320px;
+    background-color: white;
+    text-align: center;
+}
+
+.lxx {
+    background-color: rgb(230, 224, 224);
+    padding-top: 20px;
+}
+
+.lq {
+    margin-top: 20px;
+}
+
+.lq li {
+    width: 250px;
+    height: 200px;
+    margin-left: 20px;
+}
+
+.lq_1 {
+    background-color: pink;
+}
+
+.lq_2 {
+    background-color: rgb(131, 228, 196);
+}
+
+.lq_3 {
+    background-color: rgb(192, 232, 255);
+}
+
+.lq li span {
+    display: inline-block;
+    margin-top: 20px;
+}
+
+.lxx .lq li {
+    width: 400px;
+    height: 200px;
+    margin: 0 17px 0 7px;
+}
